@@ -32,7 +32,7 @@ https://www2.it.uu.se/education/course/homepage/introdat/ht16/terminalen/
 | `git push` | för att hämta hem- respektive skicka upp sina commits till servern.
 | `git clone` | Laddar ner ett repositorium till din dator
 | `git init` | använd för att starta en tom git-repository
-| `git pull` | använd för att hämta data från servern som ursprungligen klonats från och för söker automatiskt slå ihop ändringarna med det man just nu jobbar med
+| `git pull` | använd för att hämta data från servern som ursprungligen klonats från och försöker automatiskt slå ihop ändringarna med det man just nu jobbar med
 | `git commit` | används för att spara ett ögonblicksbild av 
 
 
