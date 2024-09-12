@@ -27,7 +27,7 @@ Källa: https://www2.it.uu.se/education/course/homepage/introdat/ht16/terminalen
 
 | `Git kommandon` | `Git funktion` | 
 |--|--|
-| `git add .` | för att lägga till filer och dess inhåll
+| `git add .` | för att lägga till filer och dess inehåll
 | `git push` | för att hämta hem- respektive skicka upp sina commits till servern.
 | `git clone` | Laddar ner ett repositorium till din dator
 | `git init` | använd för att starta en tom git-repository
