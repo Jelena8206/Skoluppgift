@@ -1,3 +1,11 @@
+# Skoluppgift
+
+<figure>
+    
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY02AzBmCIR5T98JtS1m1vLQ8SEC4BrlBINg&s" alt= "meme">
+         
+</figure>
+ 
 # Terminalkommandon jag har lär mig under föreläsning
 
 * pwd  - Print working directory</br>
@@ -5,7 +13,8 @@
 * cd - Change directory</br>
 * cp - Copy directroy</br>
 * mv - Move</br>
-* rm - Remove</br>
+* rm - Remove</br><figure>
+
 * mkdir - Make directory</br>
 * cd .. - för att återgå till katalogen ovan
 ---------------------------------
@@ -63,7 +72,7 @@ används för att formatera text. Använs oftast för att skriva antäckningar i
 Källa: Från Föreläsning
 
 
-Lägg in någon bild eller graf
+
 
 
 
